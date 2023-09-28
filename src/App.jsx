@@ -3,7 +3,7 @@ import Printivo from "./Components/Printivo/Printivo";
 import React from 'react'
 import { Route, Routes } from "react-router-dom";
 
-import Navbar from "./Components/Signup/navbar";
+
 
 function App() {
   return (
